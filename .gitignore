@@ -1,3 +1,6 @@
+project/models/*
+.jupyter/lab/user-settings
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
